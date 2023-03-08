@@ -24,14 +24,14 @@ const joao_matheus = {
   passions: {
     animals: { 
       favorites: { mammal: 'monkeys',  insect: 'spiders', dinosaur: 'brontosaurus', 
-        fantastic: 'dragons', pokemon: 'cubone'} 
+        fantastic: 'dragons', pokemon: 'cubone' } 
     },
     art: {
       favorites: { movie: 'fight club', series: 'breaking bad', music: 'plano de voo', 
-        game: 'hollow knight', books: 'witcher series'}    
+        game: 'hollow knight', books: 'witcher series' }    
     },
     cooking: {
-      favorites: { food: 'lasagna', junk_food: 'hamburger', dessert: 'pudding'}
+      favorites: { food: 'lasagna', junk_food: 'hamburger', dessert: 'pudding' }
     },
     football: { fan: 'Esporte Clube Bahia' },
     social_causes: { inspiration: 'Martin Luther King Jr.' },
