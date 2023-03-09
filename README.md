@@ -49,13 +49,25 @@ trybe.exports = { joao_matheus };
 ```
 ## Tech badges:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height=40 alt="Git icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 alt="Bash icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 alt="Git icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 alt="Github icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 alt="HTML icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 alt="CSS icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 alt="JavaScript icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 alt="React icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height=40 alt="Redux icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 alt="Docker icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=40 alt="MySQL icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=40 alt="NodeJS icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height=40 alt="Express icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height=40 alt="Sequelize icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40 alt="Typescript icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height=40 alt="Jest icon"/>
+<img src="https://testing-library.com/img/octopus-64x64.png" height=40 alt="RTL icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height=40 alt="Mocha icon"/>
+<img src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" height=40 alt="Chai icon"/>
+<img src="https://sinonjs.org/assets/images/logo.png" height=40 alt="Sinon icon"/>
 </div>
 
 ## Contact me:
