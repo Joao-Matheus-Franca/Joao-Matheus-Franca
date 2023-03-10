@@ -70,6 +70,11 @@ trybe.exports = { joao_matheus };
 <img src="https://sinonjs.org/assets/images/logo.png" height=40 alt="Sinon icon"/>
 </div>
 
+## Stats: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-matheus-franca&theme=slateorange&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-matheus-franca&show_icons=true&count_private=true&theme=slateorange&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact me:
 > E-mail: matheussfranca@live.com </br>
 > Linkedin: <a href="https://www.linkedin.com/in/joaomatheussilvafranca/">linkedin.com/in/joaomatheussilvafranca/</a> </br>
