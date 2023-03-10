@@ -50,8 +50,7 @@ trybe.exports = { joao_matheus };
 ## Tech badges:
 <div>
 
-### Systems:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=40 alt="Bash icon"/>
+### DevOps:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 alt="Git icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 alt="Github icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 alt="Docker icon"/>
