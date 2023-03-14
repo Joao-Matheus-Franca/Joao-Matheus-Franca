@@ -14,6 +14,7 @@ const joao_matheus = {
       test_technologies: 
         ['jest', 'react testing library', 'mocha', 'chai', 'sinon'],
       graduated_in: 'in progress',
+      learning: 'mongoDB',
     },
     doctor: {
       status: 'inactive',
