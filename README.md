@@ -20,19 +20,19 @@ const joao_matheus = {
       status: 'inactive',
       level: 'bachelor of medicine',
       graduated_in: 2020,
-    }
+    },
   }, 
   passions: {
     animals: { 
       favorites: { mammal: 'monkeys',  insect: 'spiders', dinosaur: 'brontosaurus', 
-        fantastic: 'dragons', pokemon: 'cubone' } 
+        fantastic: 'dragons', pokemon: 'cubone' }, 
     },
     art: {
       favorites: { movie: 'fight club', series: 'breaking bad', music: 'plano de voo', 
-        game: 'hollow knight', books: 'witcher series' }    
+        game: 'hollow knight', books: 'witcher series' },    
     },
     cooking: {
-      favorites: { food: 'lasagna', junk_food: 'hamburger', dessert: 'pudding' }
+      favorites: { food: 'lasagna', junk_food: 'hamburger', dessert: 'pudding' },
     },
     football: { fan: 'Esporte Clube Bahia' },
     social_causes: { inspiration: 'Martin Luther King Jr.' },
@@ -42,9 +42,9 @@ const joao_matheus = {
         GPU: 'RTX 2060 6GB',
         RAM: '16GB',
         Storage: '1TB NVMe M.2'
-        }
-    }
-  }
+        },
+    },
+  },
 };
 trybe.exports = { joao_matheus };
 ```
