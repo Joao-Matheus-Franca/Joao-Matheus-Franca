@@ -94,9 +94,9 @@ trybe.exports = { joao_matheus };
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-matheus-franca&show_icons=true&count_private=true&theme=slateorange&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me:
-> E-mail: matheussfranca@live.com </br>
-> Linkedin: <a href="https://www.linkedin.com/in/joaomatheussilvafranca/">linkedin.com/in/joaomatheussilvafranca/</a> </br>
-> Instagram: <a href="https://www.instagram.com/potato_joao_matheus/?hl=pt-br">potato_joao_matheus</a> </br>
+<a href="mailto:matheussfranca@live.com"> <img src="https://cdn-icons-png.flaticon.com/512/3686/3686989.png" height=60 alt="Email icon"/> </a> 
+<a href="https://www.linkedin.com/in/joaomatheussilvafranca/"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height=60 alt="Likedin icon"/> </a>
+<a href="https://www.instagram.com/potato_joao_matheus/?hl=pt-br"> <img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" height=60 alt="Instagram icon"/> </a>
           
 
 
