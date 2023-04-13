@@ -10,11 +10,11 @@ const joao_matheus = {
       front_end_technologies: 
         ['html', 'css', 'javascript', 'react', 'redux', 'context'],
       back_end_technologies: 
-        ['docker', 'mysql', 'nodejs', 'express', 'sequelize', 'typescript'],
+        ['docker', 'mysql', 'nodejs', 'express', 'sequelize', 'typescript', 'mongodb'],
       test_technologies: 
         ['jest', 'react testing library', 'mocha', 'chai', 'sinon'],
       graduated_in: 'in progress',
-      learning: 'mongoDB',
+      learning: 'python',
     },
     doctor: {
       status: 'inactive',
@@ -75,6 +75,7 @@ trybe.exports = { joao_matheus };
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height=40 alt="Express icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height=40 alt="Sequelize icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40 alt="Typescript icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height=40 alt="MongoDB icon"/>
 </details>
   
 <details open>
