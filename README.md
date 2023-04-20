@@ -1,6 +1,6 @@
 # 🖥️ Welcome to my profile 🖥️
 ## about_me.js
-⚠️ The use of ``` snake_case ```  in this mock JavaScript file is artistic ⚠️
+⚠️ the use of ``` snake_case ```  in this mock JavaScript file is artistic ⚠️
 ```
 const joao_matheus = {
   nationality: brazilian,
