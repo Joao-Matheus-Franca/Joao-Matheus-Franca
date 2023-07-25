@@ -14,7 +14,7 @@ const joao_matheus = {
         ['docker', 'mysql', 'nodejs', 'express', 'sequelize', 'typescript', 'mongodb'],
       test_technologies: 
         ['jest', 'react testing library', 'mocha', 'chai', 'sinon', 'pytest'],
-      computer science:
+      computer_science:
         ['python']
       graduated_in: 2023,
       learning: 'java',
