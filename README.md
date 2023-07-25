@@ -14,8 +14,10 @@ const joao_matheus = {
         ['docker', 'mysql', 'nodejs', 'express', 'sequelize', 'typescript', 'mongodb'],
       test_technologies: 
         ['jest', 'react testing library', 'mocha', 'chai', 'sinon'],
-      graduated_in: 'in progress',
-      learning: 'python',
+      computer science:
+        ['python']
+      graduated_in: 2023,
+      learning: 'java',
     },
     doctor: {
       status: 'inactive',
@@ -86,6 +88,11 @@ trybe.exports = { joao_matheus };
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height=40 alt="Mocha icon"/>
 <img src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" height=40 alt="Chai icon"/>
 <img src="https://sinonjs.org/assets/images/logo.png" height=40 alt="Sinon icon"/>
+</details>
+
+<details open>
+<summary><h4>Computer science:</h4></summary>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=40 alt="Python icon"/>
 </details>
 
 </div>
