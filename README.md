@@ -53,6 +53,24 @@ trybe.exports = { joao_matheus };
 ```
 ## Tech badges:
 <div>
+
+<table>
+  <tr>
+    <th>DevOps</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=40 alt="Linux icon"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 alt="Git icon"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height=40 alt="Github icon"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=40 alt="Docker icon"/></td>
+  </tr>
+</table>
   
 <details open>
 <summary><h4>DevOps:</h4></summary>
