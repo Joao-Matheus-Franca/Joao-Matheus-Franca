@@ -106,11 +106,6 @@ trybe.exports = { joao_matheus };
 </table>
 </div>
 
-## Stats: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-matheus-franca&theme=slateorange&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-matheus-franca&show_icons=true&count_private=true&theme=slateorange&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contact me:
 <a href="mailto:matheussfranca@live.com"> <img src="https://cdn-icons-png.flaticon.com/512/3686/3686989.png" height=60 alt="Email icon"/> </a> 
 <a href="https://www.linkedin.com/in/joaomatheussilvafranca/"> <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height=60 alt="Likedin icon"/> </a>
