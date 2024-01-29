@@ -87,7 +87,7 @@ trybe.exports = { joao_matheus };
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 alt="React icon"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height=40 alt="Sequelize icon"/></td>
     <td align="center"></td>
-    <td align="center"><img src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" height=40 alt="Chai icon"/></td>
+    <td align="center"><img src="https://camo.githubusercontent.com/d9369310536b4ba3cdd143399e42ed22ec759156a849ece4ecb4db76ac708a57/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" height=40 alt="Chai icon"/></td>
   </tr>
   <tr>
     <td align="center"></td>
