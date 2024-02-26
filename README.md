@@ -17,7 +17,7 @@ const joao_matheus = {
       computer_science:
         ['python']
       graduated_in: 2023,
-      learning: 'java',
+      learning: 'bootstrap',
     },
     doctor: {
       status: 'inactive',
